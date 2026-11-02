@@ -209,5 +209,9 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Gender and racial profiling questions are common in demographics surveys, which sometimes serve for databases as well. Those categorizations and offered options are generally missing some components or options. 
+
+Another example I've currently experienced as a resaercher using a child-family database is that in a database, generally, the email from one of the parents is kept, so if the other parent communicated with the team, or for whatever reason, the child is not living with that parent anymore, sometimes scheduling, updating, availability issues arise.
+
+Another relevant example comes from when a woman's marital status changes. In some countries, taking the husband's family names is the default. In such cases, although the marital status change does not cause any troubles for men in terms of their identification in the databases, married women need to update all their identification documents, passports, visas, etc, to be identified consistently across governmental and or international databases, which is depending on the country, very time and money consuming, and means losing some immediate opporunities that require travelling, being checked with id, etc.
 ```
